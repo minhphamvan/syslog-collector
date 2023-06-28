@@ -8,3 +8,7 @@ TODO
 *.swp
 syslog-gollector
 .DS_Store
+
+./vendor
+
+./.idea
