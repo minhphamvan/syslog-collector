@@ -46,8 +46,8 @@ type Statistics interface {
 // Types
 const (
 	adminHost        = "localhost:8080"
-	connTcpHost      = "localhost:514"
-	connUdpHost      = "localhost:514"
+	connTcpHost      = "localhost:5140"
+	connUdpHost      = "localhost:5141"
 	connType         = "tcp"
 	kafkaBatch       = 10
 	kafkaBrokers     = "localhost:9092"

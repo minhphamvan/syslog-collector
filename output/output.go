@@ -5,7 +5,7 @@ import (
 
 	"github.com/Shopify/sarama"
 
-	metrics "github.com/rcrowley/go-metrics"
+	"github.com/rcrowley/go-metrics"
 )
 
 // A KafkaProducer encapsulates a connection to a Kafka cluster.

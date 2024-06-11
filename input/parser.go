@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strconv"
 
-	metrics "github.com/rcrowley/go-metrics"
+	"github.com/rcrowley/go-metrics"
 )
 
 // A Rfc5424Parser parses Syslog messages.
